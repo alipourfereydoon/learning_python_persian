@@ -1,0 +1,22 @@
+syntax
+output
+comments
+variables
+data types
+numbers
+casting
+strings
+boolean
+operators
+lists
+tuples
+sets
+dictionaries
+if 
+while
+for
+functions
+--------------------------------------------------------------------
+جلسه تاریخ 20 مهر -روز دوشنبه -آموزش پایتون-امیرعلی وحدیث تا صفحه 45 از فایل لیست ها آموزش داده شد 
+
+------------------------------------------------------------------------
